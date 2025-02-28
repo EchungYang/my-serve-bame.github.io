@@ -10,6 +10,7 @@
 MY-SERVE stands for <b>M</b>ental health in <b>Y</b>outh: <b>SERV</b>ice <b>E</b>ffectiveness. 
 
 Research indicates that compared to White students, BAME students may encounter more identity crises, social distress, and marginalisation (Arday, 2018), which can uniquely impact their mental health and engagement with counselling services. For example, BAME students are often reluctant to seek counselling due to fears of social stigma (Maeshima et al., 2020) or concerns about facing further racial discrimination (Equality Challenge Unit, 2015). This study aims to understand the BAME postgraduate students and staffs’ experiences of mental health service. We want to explore the specific challenges they encounter when seeking mental health services, including the University Counselling Service (UCS).
+
 <img src="https://i.imghippo.com/files/AnQP6200kMw.png" alt="" border="0">
 
 
@@ -52,7 +53,7 @@ The project has been approved by the Cambridge Psychology Research Ethics Commit
 The University of Cambridge is the sponsor for this study and will be the data controller. The lawful basis for carrying out this study under GDPR is Task in the Public Interest, (Article 6,1e) as research is cited as part of the University’s duties. This relates to how the information that you share with us is protected. More information about how the University of Cambridge will use your information can be found at: https://www.information-compliance.admin.cam.ac.uk/data-protection/research-participant-data.
 
 # How can I participate in the study?
-We would like to ask you to complete an [expression of interest form](https://forms.gle/GKLCCVofFHPaHBsJA), and we will contact you shortly.
+We would like to ask you to complete an [expression of interest form](https://forms.gle/tuctC9ruoxyUC6Hz6), and we will contact you shortly.
 
 
 # Contact for further information.
