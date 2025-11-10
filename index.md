@@ -18,7 +18,7 @@ Research indicates that compared to White students, BAME students may encounter 
 
 * Are under age 25
 * Identify as an ethnic minority
-* Have been seen by any mental health services (MHS) when you were at the University of Cambridge
+* Used any mental health services (MHS) when you were at the University of Cambridge
   - e.g., University Counselling Services, GP counsellor, charity or specialist MHS
 
 # What will happen to me if I take part?
