@@ -16,11 +16,10 @@ Research indicates that compared to White students, BAME students may encounter 
 
 # We would like to invite you to take part if you:
 
-* Are a postgraduate student or staff at the University of Cambridge
 * Are under age 25
 * Identify as an ethnic minority
-* Have been seen by any mental health services (MHS) in the community
-  - e.g., University Counselling Services, GP counsellor, charity or specialist Menthal Health Services
+* Have been seen by any mental health services (MHS) when you were at the University of Cambridge
+  - e.g., University Counselling Services, GP counsellor, charity or specialist MHS
 
 # What will happen to me if I take part?
 
